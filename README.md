@@ -1,7 +1,6 @@
 # keyboard
 
 ## ⚠ THIS PROJECT HAS BEEN PUT ON HOLD
-Blockers mentioned below.
 
 Problem: Need a 75% keybaord (had mechanical in mind earlier but really preferring decent chicklets these days, like Apple's small one) and existing products are out of my budget.
 
