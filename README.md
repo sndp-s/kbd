@@ -1,6 +1,7 @@
 # keyboard
 
-# **⚠ THIS PROJECT HAS BEEN PUT ON HOLD** due to some blockers.
+⚠
+# **THIS PROJECT HAS BEEN PUT ON HOLD** due to some blockers.
 
 ---
 
